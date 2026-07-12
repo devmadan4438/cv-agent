@@ -1,0 +1,48 @@
+[2026-07-11 23:15:12] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+list dowm my projects names only
+
+[2026-07-11 23:15:20] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+1. TiffinStash
+2. Protocol
+3. DickerSon
+4. Repository-Aware Coding Agent
+5. SayDhad
+
+[2026-07-11 23:15:34] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+tell me about my 3rd project
+
+[2026-07-11 23:15:39] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Your 3rd project is DickerSon, a comprehensive logistics platform where you worked as a Developer from August 2024 to November 2024.
+
+[2026-07-11 23:16:01] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+what is coding agent project
+
+[2026-07-11 23:16:04] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+The coding agent project is the "Repository-Aware Coding Agent" where you built a production-ready AI coding agent as a Developer from April 2026 to April 2026.
+
+[2026-07-11 23:16:19] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+what are the my experiences
+
+[2026-07-11 23:16:22] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You have experiences as a:
+
+1. Technical Specialist – L2 at Infovision Inc, where you worked on architecture migration, backend engineering, frontend scale, and DevOps automation.
+2. Software Engineer at Staqo World Pvt. Ltd., where you worked on full-stack engineering, real-time communication, database optimization, and cloud & infrastructure.
+3. SDE - II at QSS Technosoft, where you developed high-performance REST APIs and managed deployment pipelines.
+
+[2026-07-11 23:16:42] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+what about education?
+
+[2026-07-11 23:16:45] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You have the following education:
+
+1. High School - completed in May 2016
+2. Intermediate - completed in May 2018
+3. Bachelor of Technology (CSE) from GLA University, Mathura - completed in May 2022
+
+[2026-07-11 23:19:08] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+thanks
+
+[2026-07-11 23:19:09] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You're welcome! It was my pleasure to help you with your resume information. If you have any more questions or need further assistance, feel free to ask!
+

@@ -9,6 +9,6 @@ os.makedirs(CHAT_DIR, exist_ok=True)
 os.makedirs(VECTOR_DIR, exist_ok=True)
 
 # Set Langsmith in env
-os.environ["LANGSMITH_TRACING"] = "true"
+os.environ["LANGSMITH_TRACING"] = settings.LANGSMITH_TRACING
 os.environ["LANGSMITH_API_KEY"] = settings.LANGSMITH_API_KEY
 os.environ["LANGSMITH_PROJECT"] = settings.LANGSMITH_PROJECT

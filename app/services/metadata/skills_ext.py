@@ -18,4 +18,4 @@ class SkillsExtractor(BaseMetadataExtractor):
 
         result = self.structured_llm.invoke(prompt)
 
-        return result
+        return result.skills

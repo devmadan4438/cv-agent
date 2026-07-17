@@ -12,6 +12,8 @@ from app.services.chunking.factory import ChunkFactory
 from app.services.embedding.factory import EmbeddingFactory
 from app.services.vector_store.faiss import FAISSService
 
+from app.schemas.metadata import Skill, SkillList
+
 from app.core.response import success_response
 from app.core.config import VECTOR_DIR
 
@@ -23,7 +25,7 @@ router = APIRouter()
 @router.post("/")
 async def upload_resume(file: UploadFile):
     session_id = str(uuid4())
-    print("I am here")
+    
     logger.info(f"Start CV Processing for {session_id}: >", file.filename)
    
     suffix = "." + file.filename.split(".")[-1]
@@ -53,15 +55,32 @@ async def upload_resume(file: UploadFile):
 
     # Semantic Chunking
     documents = []
+    skillList  = SkillList(skills=[])
+
     for entity in metadata:
+        if isinstance(entity, Skill):
+            # Collect all skills together
+            skillList.skills.append(entity)
+            continue
 
+        # Flush accumulated skills before processing a non-skill entity
+        if skillList.skills:
+            chunker = ChunkFactory.get(skillList)
+            if chunker:
+                documents.extend(chunker.chunk(skillList))
+            skillList = SkillList(skills=[])
+
+        # Process current non-skill entity
         chunker = ChunkFactory.get(entity)
-
         if chunker:
-            documents.extend(
-                chunker.chunk(entity)
-            )
+            documents.extend(chunker.chunk(entity))
 
+    # Flush remaining skills (if metadata ends with skills)
+    if skillList.skills:
+        chunker = ChunkFactory.get(skillList)
+        if chunker:
+            documents.extend(chunker.chunk(skillList))
+            
     # Embedding
     embedding = EmbeddingFactory.get('nomic')
 

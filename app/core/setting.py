@@ -26,7 +26,7 @@ class Settings(BaseSettings):
 
     # Langsmith
     LANGSMITH_API_KEY: str  = Field(default="", alias="LANGSMITH_API_KEY")
-    LANGSMITH_TRACING: bool = Field(default=False, alias="LANGSMITH_TRACING")
+    LANGSMITH_TRACING: str = Field(default="false", alias="LANGSMITH_TRACING")
     LANGSMITH_PROJECT: str  = Field(default="Boundaryless", alias="LANGSMITH_PROJECT")
 
 settings = Settings()

@@ -13,9 +13,12 @@ class SkillsChunker(BaseChunker):
         name="skill chunk"
     )
     def chunk(self, skills: SkillList):
-        logger.info("start skill chunking")
+        logger.info("start skill chunking ===>", skills)
         content = "\n".join(
-            skill.name
+            f"""
+            name: {skill.name}
+            category: {skill.category}
+            """
             for skill in skills.skills
         )
         logger.info(f"skill chunking done of length {len(skills.skills)}")
@@ -26,7 +29,8 @@ class SkillsChunker(BaseChunker):
                 page_content=content,
 
                 metadata={
-                    "type": "skills"
+                    "type": "skills",
+                    "content": content
                 }
             )
         ]

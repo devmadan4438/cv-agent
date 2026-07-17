@@ -46,3 +46,356 @@ thanks
 [2026-07-11 23:19:09] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
 You're welcome! It was my pleasure to help you with your resume information. If you have any more questions or need further assistance, feel free to ask!
 
+[2026-07-13 23:13:21] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+list down my skills
+
+[2026-07-13 23:13:28] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-13 23:13:40] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+what is my email
+
+[2026-07-13 23:13:43] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Your email is madanmohan44.38@gmail.com.
+
+[2026-07-13 23:13:54] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+create a python function
+
+[2026-07-13 23:13:54] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I'm a resume assistant. I can answer questions only about the uploaded resume.
+
+[2026-07-13 23:14:23] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+what are best project
+
+[2026-07-13 23:14:27] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+The best projects are TiffinStash, Presence360, Protocol, SayDhad, and Repository-Aware Coding Agent.
+
+[2026-07-13 23:14:40] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+give some breif about tiffinstash
+
+[2026-07-13 23:14:40] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I'm a resume assistant. I can answer questions only about the uploaded resume.
+
+[2026-07-13 23:14:54] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Can explain tiffinstash project
+
+[2026-07-13 23:14:58] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+TiffinStash is a Canadian-based meal service project where you worked as a Developer from June 2024 to Aug 2024.
+
+[2026-07-13 23:15:15] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+what are my skills
+
+[2026-07-13 23:15:19] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Your skills include Express.js, React.js, Node.js, MongoDB, Websocket, AWS(EC2, Lambda, S3, Docker), Git, Next.js, Python, FastAPI, REST APIs, SonarQube, Kibana, LangGraph, and System Design.
+
+[2026-07-13 23:15:35] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+list down my backend skills only
+
+[2026-07-13 23:15:40] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Your backend skills include Node.js, Express.js, FastAPI, REST APIs, MongoDB, AWS(EC2, Lambda, S3, Docker), and Python.
+
+[2026-07-13 23:16:03] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+tell me experience in python
+
+[2026-07-13 23:16:07] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You have experience in Python, specifically in building high-performance backends using Python, FastAPI, and Django. You also have experience in using Python for backend engineering, architecture migration, and DevOps automation.
+
+[2026-07-13 23:16:18] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+in years only
+
+[2026-07-13 23:16:18] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I'm a resume assistant. I can answer questions only about the uploaded resume.
+
+[2026-07-13 23:16:39] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+How much year experience I have
+
+[2026-07-13 23:16:42] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You have 5 years of experience.
+
+[2026-07-13 23:16:52] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Relevant in python
+
+[2026-07-13 23:16:52] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I'm a resume assistant. I can answer questions only about the uploaded resume.
+
+[2026-07-13 23:18:37] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+list down my all skills
+
+[2026-07-13 23:18:41] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Your skills include:
+
+* Express.js
+* React.js
+* Node.js
+* MongoDB
+* Websocket
+* AWS(EC2, Lambda, S3, Docker)
+* Git
+* Next.js
+* Python
+* FastAPI
+* REST APIs
+* SonarQube
+* Kibana
+* LangGraph
+* System Design
+
+Note: These skills are mentioned in the resume as relevant to your experience and expertise.
+
+[2026-07-13 23:21:01] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Calculate my experience from resume for python only
+
+[2026-07-13 23:21:05] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You have 2 years of experience in Python.
+
+[2026-07-13 23:22:14] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+what is summary
+
+[2026-07-13 23:22:21] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Highly skilled Full Stack & Generative AI Engineer with 5 years of experience designing, scaling, and deploying distributed systems, microservices, and enterprise-grade AI agents. Expert in building high-performance backends (Python/FastAPI/Django) and modern frontends (MERN/Next.js) coupled with cutting-edge AI orchestration (LangGraph, RAG, and Model Context Protocol). Proven track record of migrating legacy monoliths to cloud-native architectures and implementing production-level observability for large-scale systems.
+
+[2026-07-13 23:22:41] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Am Eligible for Fullstack developer job
+
+[2026-07-13 23:23:20] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Can I apply for python develope job as per cv
+
+[2026-07-13 23:23:23] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Yes, you are eligible to apply for a Python developer job as per your CV. Your CV mentions experience with Python, FastAPI, and other relevant skills, making you a suitable candidate for a Python developer position.
+
+[2026-07-13 23:23:49] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Tell me what job I can apply with this CV
+
+[2026-07-13 23:23:54] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You can apply for jobs such as Full Stack Engineer, Generative AI Engineer, Technical Specialist, Software Engineer, or similar roles that require expertise in Python, FastAPI, Django, MERN, Next.js, LangGraph, RAG, and Model Context Protocol, as well as experience in designing, scaling, and deploying distributed systems, microservices, and enterprise-grade AI agents.
+
+[2026-07-14 12:10:05] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+What is my experience
+
+[2026-07-14 12:10:13] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+You have experience as a Technical Specialist – L2 at Infovision Inc, Software Engineer at Staqo World Pvt. Ltd., and SDE - II at QSS Technosoft. Your experience includes skills such as Python, FastAPI, REST APIs, SonarQube, Kibana, LangGraph, AWS, System Design, Express.js, React.js, Node.js, MongoDB, Websocket, and more. Your responsibilities have included architecture migration, backend engineering, frontend scale, DevOps automation, full-stack engineering, real-time communication, database optimization, cloud and infrastructure, and developing high-performance REST APIs.
+
+[2026-07-14 12:11:09] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+list down my projects name only
+
+[2026-07-14 12:11:13] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+1. Protocol
+2. TiffinStash
+3. DickerSon
+4. Repository-Aware Coding Agent
+5. SayDhad
+
+[2026-07-14 12:11:35] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Can you give breif intro about 5 project
+
+[2026-07-14 12:11:36] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Here are brief introductions to each of the 5 projects:
+
+1. **Protocol**: Innovative platform for employment opportunities, developed between April 2023 and Dec 2023.
+2. **TiffinStash**: Canadian-based meal service project, developed between June 2024 and Aug 2024.
+3. **DickerSon**: Comprehensive logistics platform, developed between Aug 2024 and Nov 2024.
+4. **Repository-Aware Coding Agent**: Production-ready AI coding agent, built in April 2026.
+5. **SayDhad**: On-demand Arabic language learning platform, developed between Nov 2021 and March 2022.
+
+[2026-07-14 12:12:24] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+What's the overall experience of Maxwell?
+
+[2026-07-14 12:12:27] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+Maxwell has 5 years of experience as a Full Stack & Generative AI Engineer, with expertise in designing, scaling, and deploying distributed systems, microservices, and enterprise-grade AI agents. He has experience in building high-performance backends and modern frontends, as well as AI orchestration. He has a proven track record of migrating legacy monoliths to cloud-native architectures and implementing production-level observability for large-scale systems.
+
+[2026-07-14 12:18:05] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+Summarise his Medical coding project that he completed in 2024?
+
+[2026-07-14 12:18:07] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-14 12:18:27] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+tell me about madan's skillset in Ai and software engineering? what are his top 2 projects properly showcasing these main skillsets? how is his education relevant to his skillsets? where is Madan located?
+
+[2026-07-14 12:18:28] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-14 12:18:58] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+tell me about madan's skillset in AI
+
+[2026-07-14 12:18:59] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-14 12:19:12] [897426a1-822c-427a-998e-5d4b654ddf31] [USER]
+tell me about  skillset in A
+
+[2026-07-14 12:19:13] [897426a1-822c-427a-998e-5d4b654ddf31] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-18 00:08:12] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+List down my skills
+
+[2026-07-18 00:08:19] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+The skills listed include:
+Programming Languages: Python, JavaScript (ES6+), TypeScript, Java
+Backend Technologies: FastAPI, Django, Node.js, Express.js, Spring Boot, Microservices Architecture, RESTful APIs, GraphQL, Distributed System
+Frontend / Web Technologies: React.js, Next.js, Redux, Microfrontend Architecture, HTML5, CSS3
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Messaging & Distributed Systems: RabbitMQ, Kafka
+Cloud & DevOps: AWS (EC2, Lambda, S3, RDS, DynamoDB, Fargate, Bedrock), GCP, Docker, Kubernetes, Jenkins, CI/CD Pipelines
+AI & Generative AI: Agentic AI (LangChain, LangGraph), RAG, LlamaIndex, Vector Databases (Pinecone), Anthropic, OpenAI, MCP Servers, LLM (LLaMA)
+Architecture & Tools: System Design (HLD/LLD), Data Structures & Algorithms (DSA), Git (GitHub, Bitbucket, GitLab)
+Testing & Monitoring: Kibana, SonarQube, Jest, JUnit, LangSmith, openTelemetry
+
+[2026-07-18 00:08:58] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+List down my skills
+
+[2026-07-18 00:09:04] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+The skills listed include:
+
+1. Programming Languages: 
+   - Python
+   - JavaScript (ES6+)
+   - TypeScript
+   - Java
+
+2. Backend Technologies: 
+   - FastAPI
+   - Django
+   - Node.js
+   - Express.js
+   - Spring Boot
+   - Microservices Architecture
+   - RESTful APIs
+   - GraphQL
+   - Distributed System
+
+3. Frontend / Web Technologies: 
+   - React.js
+   - Next.js
+   - Redux
+   - Microfrontend Architecture
+   - HTML5
+   - CSS3
+
+4. Databases: 
+   - PostgreSQL
+   - MySQL
+   - MongoDB
+   - Redis
+
+5. Messaging & Distributed Systems: 
+   - RabbitMQ
+   - Kafka
+
+6. Cloud & DevOps: 
+   - AWS (EC2, Lambda, S3, RDS, DynamoDB, Fargate, Bedrock)
+   - GCP
+   - Docker
+   - Kubernetes
+   - Jenkins
+   - CI/CD Pipelines
+
+7. AI & Generative AI: 
+   - Agentic AI (LangChain, LangGraph)
+   - RAG
+   - LlamaIndex
+   - Vector Databases (Pinecone)
+   - Anthropic
+   - OpenAI
+   - MCP Servers
+   - LLM (LLaMA)
+
+8. Architecture & Tools: 
+   - System Design (HLD/LLD)
+   - Data Structures & Algorithms (DSA)
+   - Git (GitHub, Bitbucket, GitLab)
+
+9. Testing & Monitoring: 
+   - Kibana
+   - SonarQube
+   - Jest
+   - JUnit
+   - LangSmith
+   - openTelemetry
+
+[2026-07-18 00:09:40] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+I need only AI skills
+
+[2026-07-18 00:09:41] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+The AI skills listed include:
+
+1. Agentic AI (LangChain, LangGraph)
+2. RAG
+3. LlamaIndex
+4. Vector Databases (Pinecone)
+5. Anthropic
+6. OpenAI
+7. MCP Servers
+8. LLM (LLaMA)
+
+[2026-07-18 00:10:02] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+what is the Maxwell skills
+
+[2026-07-18 00:10:03] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-18 00:10:11] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+what is madan skills
+
+[2026-07-18 00:10:11] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-18 00:10:26] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+List one skill from Madan's CV
+
+[2026-07-18 00:10:27] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+I could not find this information in the resume.
+
+[2026-07-18 00:10:51] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+what are my educations
+
+[2026-07-18 00:10:55] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+The educations listed include:
+
+1. High School (May 2016)
+2. Intermediate (May 2018)
+3. Bachelor of Technology (CSE) from GLA University, Mathura (May 2022)
+
+[2026-07-18 00:11:09] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+list down one skill only
+
+[2026-07-18 00:11:10] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+Python
+
+[2026-07-18 00:11:26] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+Which job I can apply based on this CV
+
+[2026-07-18 00:11:30] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+Based on the skills and experience listed in your CV, you can apply for jobs such as:
+
+1. Technical Specialist – L2 at Infovision Inc
+2. Software Engineer at Staqo World Pvt. Ltd
+3. Full Stack Developer at various companies
+4. Backend Engineer at companies using Python, FastAPI, and Django
+5. Frontend Engineer at companies using React.js and Next.js
+6. DevOps Engineer at companies using AWS, Kubernetes, and Docker
+7. AI/ML Engineer at companies using Agentic AI, RAG, and LlamaIndex
+8. Cloud Engineer at companies using AWS, GCP, and Azure
+9. Data Scientist at companies using Python, MongoDB, and Websocket
+10. Real-Time Communication Engineer at companies using Websocket and Node.js
+
+These are just a few examples of job roles that you can apply for based on your skills and experience. You can also explore other job roles and companies that match your skills and interests.
+
+[2026-07-18 00:11:58] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [USER]
+Tell me about your capabilities
+
+[2026-07-18 00:12:01] [78d93189-cfe7-4f77-8b5e-1c10881c9ea1] [AGENT]
+Based on the resume, the capabilities include:
+
+1. Backend Engineering: Proficient in Python, FastAPI, REST APIs, and Django.
+2. Frontend Scale: Experienced in React.js, Next.js, and Microfrontend Architecture.
+3. DevOps Automation: Skilled in AWS, Kubernetes, Docker, and CI/CD Pipelines.
+4. Architecture Migration: Capable of migrating legacy monoliths to cloud-native architectures.
+5. AI/ML Development: Experienced in building AI-powered conversational support systems and repository-aware coding agents.
+6. Cloud Engineering: Proficient in AWS, GCP, and Azure.
+7. Data Science: Skilled in data structures, algorithms, and data analysis.
+8. Full Stack Development: Experienced in developing comprehensive solutions using Python, JavaScript, and React.js.
+9. System Design: Capable of designing and implementing high-performance systems.
+10. AI Workflow Automation: Experienced in automating customer interactions and reducing manual support workload using AI-powered conversational support systems.
+

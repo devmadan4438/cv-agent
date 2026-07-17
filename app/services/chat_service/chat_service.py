@@ -46,7 +46,8 @@ class ChatService:
             ):
                 # Only stream responses from the final agent
                 if metadata.get("langgraph_node") != "agent_node":
-                    continue
+                    if metadata.get("langgraph_node") != "reject_node":
+                        continue
 
                 if getattr(msg, "content", None):
                     full_response.append(msg.content)
